@@ -1,5 +1,5 @@
 # Bicep
-Learning repo with Bicep Exercises from Microsoft Learning Path: Bicep
+Repository created to host the learning process for [Bicep](/azure/azure-resource-manager/bicep) Exercises from Microsoft Learning Path: Bicep
 
 ## Links
 Microsoft Learning Path: Bicep
